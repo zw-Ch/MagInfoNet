@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/483172829.svg)](https://zenodo.org/badge/latestdoi/483172829)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7199231.svg)](https://doi.org/10.5281/zenodo.7199231)
 # MagInfoNet
 MagInfoNet is a Neural Network model used to estimate earthquake magnitudes. <br>
 Compared with traditional Machine Learning and previous Deep Learning models, MagInfoNet combines seismic signals with relevant information to improve the prediction accuracy. <br>
