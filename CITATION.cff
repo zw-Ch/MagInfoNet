@@ -4,6 +4,18 @@ authors:
 - family-names: "Chen"
   given-names: "Ziwei"
   orcid: "https://orcid.org/0000-0003-4418-7121"
+- family-names: "Wang"
+  given-names: "Zhiguo"
+  orcid: "https://orcid.org/0000-0003-0343-7278"
+- family-names: "Wu"
+  given-names: "Shaojiang"
+  orcid: ""
+- family-names: "Wang"
+  given-names: "Yibo"
+  orcid: ""
+- family-names: "Gao"
+  given-names: "jinghuai"
+  orcid: ""
 title: "MagInfoNet"
 version: 1.0.0
 doi: 10.5281/zenodo.7199231
