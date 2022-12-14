@@ -2,7 +2,7 @@
 # MagInfoNet
 MagInfoNet is a Neural Network model used to estimate earthquake magnitudes. <br>
 Compared with traditional Machine Learning and previous Deep Learning models, MagInfoNet combines seismic signals with relevant information to improve the prediction accuracy. <br>
-The paper is available in 
+The paper is available in [https://doi.org/10.1029/2022EA002580](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022EA002580).
 
 ## Installation
 MagInfoNet is based on [Pytorch](https://pytorch.org/docs/stable/index.html) and [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/index.html)<br>
